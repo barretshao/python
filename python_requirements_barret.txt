@@ -1,3 +1,6 @@
 pandas_datareader
 slacker
 paramiko
+vollib
+twilio
+prettytable
